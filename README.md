@@ -37,6 +37,8 @@ Sur ce GitHub, je partage principalement **mes explorations personnelles** autou
 
 ## 🤝 Envie d’échanger ?
 
-Je suis toujours curieuse d’apprendre des autres, n’hésite pas à me contacter ou à suivre mes projets si tu veux suivre mon parcours !
+Je suis toujours curieuse d’apprendre des autres, n’hésite pas à me contacter ou à suivre mes projets si tu veux suivre mon parcours !  
+[LinkedIn](https://www.linkedin.com/in/zenaba-mogne/ )  
+Email : zenaba.mogne@live.fr
 
 ---
