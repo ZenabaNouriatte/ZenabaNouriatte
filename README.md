@@ -16,8 +16,6 @@ Sur ce GitHub, je partage principalement **mes explorations personnelles** autou
 - Réseau 🌐
 - Et bientôt... Cloud ☁️ !
   
-(Mes projets réalisés à 42 ne sont pas partagés publiquement.)
-
 ## 🎯 Objectifs & progression
 
 | Objectif                                           | Avancement                     |
