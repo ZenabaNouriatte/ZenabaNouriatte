@@ -1,42 +1,94 @@
 # 👩🏾‍💻 Zenaba Nouriatte
 
-Bienvenue sur mon GitHub 👋!
+Welcome to my GitHub! 👋
 
-## 🧭 À propos de moi
+## 🧭 About Me
 
 ✨ **Zenaba Nouriatte**  
-📍 **33 ans**  
-💻 **Étudiante à l’école 42** depuis **novembre 2023**  
-🎯 Spécialisation souhaitée : **administration système** & **cloud computing**  
+📍 **33 years old**  
+💻 **42 School Student** since **November 2023**  
+🎯 **Career Goal:** Cloud Engineer & DevOps Specialist  
+🚀 **Next Step:** DevOps internship starting November 2025
 
-Sur ce GitHub, je partage principalement **mes explorations personnelles** autour de :
-- Linux 🐧
-- Scripts Bash 📜
-- Virtualisation 🖥️
-- Réseau 🌐
-- Et bientôt... Cloud ☁️ !
-  
-## 🎯 Objectifs & progression
-
-| Objectif                                           | Avancement                     |
-|---------------------------------------------------|---------------------------------|
-| ✅ Valider le tronc commun                         | 🟩🟩🟩🟩⬜  **En cours**      |
-| 🚀 Monter en compétences en administration système | 🟩🟩⬜⬜⬜  **En cours**      |
-| ☁️ Découvrir les bases du Cloud computing          | 🟩⬜⬜⬜⬜  **Premiers pas**  |
-| 🛠️ Expérimenter avec des outils d'automatisation   | ⬜⬜⬜⬜⬜  **À venir**       |
-
-## 🌱 En cours d'apprentissage
-
-- Linux & Bash avancé
-- Réseau & sécurité
-- Outils d’automatisation (Ansible, Terraform)
-- CI/CD & monitoring
-- Premiers pas avec le cloud (AWS, Azure)
-
-## 🤝 Envie d’échanger ?
-
-Je suis toujours curieuse d’apprendre des autres, n’hésite pas à me contacter ou à suivre mes projets si tu veux suivre mon parcours !  
-[LinkedIn](https://www.linkedin.com/in/zenaba-mogne/ )  
-Email : zenaba.mogne@live.fr
+### 🔄 Career Transition Journey
+From **10 years in social work** to **cloud engineering** – bringing project management expertise and problem-solving mindset to infrastructure challenges.
 
 ---
+
+## 🛠️ Current Tech Focus
+
+This GitHub showcases my journey toward **cloud engineering** and **DevOps** through:
+
+### 🖥️ System Administration
+- Linux system management & automation  
+- Bash scripting for infrastructure tasks  
+- Network configuration & troubleshooting  
+
+### ☁️ Cloud & DevOps Learning Path
+- Container technologies (Docker)  
+- Infrastructure as Code principles  
+- CI/CD pipeline concepts  
+- Cloud architecture patterns (AWS focus)  
+
+### 🔧 42 School Projects
+- Low-level C programming  
+- Unix system programming  
+- Network programming & protocols  
+
+---
+
+## 🎯 Learning Roadmap
+
+| Focus Area             | Current Status                  | Next Steps                          |
+|------------------------|----------------------------------|--------------------------------------|
+| **42 Core Curriculum** | 🟩🟩🟩🟩⬜ Completing final projects | ft_irc & ft_transcendance            |
+| **Linux & System Admin** | 🟩🟩🟩⬜⬜ Solid foundations       | Advanced automation scripts          |
+| **Cloud Fundamentals** | 🟩🟩⬜⬜⬜ Learning AWS basics     | AWS Cloud Practitioner cert          |
+| **DevOps Tools**       | 🟩⬜⬜⬜⬜ Docker basics            | CI/CD pipelines, IaC                 |
+| **Practical Projects** | ⬜⬜⬜⬜⬜ Planning phase           | Cloud infrastructure demos           |
+
+---
+
+## 🌱 Currently Learning
+
+- **AWS Cloud Services** – EC2, VPC, S3, IAM  
+- **Docker & Containerization** – Building and orchestrating containers  
+- **Infrastructure Automation** – Terraform, Ansible basics  
+- **CI/CD Concepts** – Jenkins, GitLab CI, GitHub Actions  
+- **Monitoring & Observability** – System metrics and logging  
+
+---
+
+## 🚀 Upcoming Projects
+
+- **Multi-tier AWS Architecture** – Web app with RDS, Load Balancer  
+- **Dockerized Application** – Containerized development environment  
+- **Infrastructure as Code** – Terraform modules for AWS resources  
+- **CI/CD Pipeline** – Automated deployment workflow  
+
+---
+
+## 💼 Professional Background
+
+**Unique Value Proposition:**  
+Combining technical skills with 10 years of project management experience in high-stakes environments.
+
+**Transferable Skills:**
+- Complex project coordination  
+- Stakeholder management  
+- Problem-solving under pressure  
+- Cross-functional collaboration  
+
+---
+
+## 🔗 Connect With Me
+
+📧 **Email:** *zenaba.mogne@live.fr*  
+💼 **LinkedIn:** [linkedin.com/in/zenaba-mogne](https://linkedin.com/in/zenaba-mogne)  
+🌐 **Portfolio:** [zenabanouriatte.github.io](https://zenabanouriatte.github.io/)
+
+---
+
+💡 **Open to:** DevOps internships, mentorship opportunities, and connecting with fellow career changers in tech!
+
+> *"From social impact to cloud infrastructure – ready to apply human-centered problem-solving to technical challenges."*
