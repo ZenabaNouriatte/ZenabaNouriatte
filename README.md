@@ -59,12 +59,47 @@ This GitHub showcases my journey toward **cloud engineering** and **DevOps** thr
 
 ---
 
-## 🚀 Upcoming Projects
+## 🚧 Projects in Progress
 
-- **Multi-tier AWS Architecture** – Web app with RDS, Load Balancer  
-- **Dockerized Application** – Containerized development environment  
-- **Infrastructure as Code** – Terraform modules for AWS resources  
-- **CI/CD Pipeline** – Automated deployment workflow  
+### 💬 ft_irc – Custom IRC Server (42 Project)
+Building a server based on the RFC1459 IRC protocol using C++.  
+- TCP/IP socket programming  
+- Channel creation, client command parsing  
+🎯 Goal: Deepen understanding of network protocols and low-level systems.
+
+---
+
+### 🎮 ft_transcendance – Fullstack Web App Deployment (42 Project)
+Deploying a multiplayer pong web app with a secure and scalable architecture:  
+- Dockerized backend (NestJS), frontend (React), and PostgreSQL  
+- NGINX reverse proxy, SSL certificate, CI/CD pipeline  
+🎯 Goal: Apply DevOps practices to a real-world fullstack application.
+
+---
+
+### ☁️ Deploying a Static Blog on AWS (EC2 + Nginx)
+Hosting a static blog using AWS EC2 with a custom domain:  
+- NGINX configuration, domain setup via Route53, SSL  
+- Basic firewall and SSH configuration  
+🎯 Goal: Master EC2 and get hands-on with core AWS services.
+
+---
+
+## 🔜 Planned Projects
+
+### 🧪 Microservices Architecture with Kubernetes
+Deploying a microservice-based application on a Kubernetes cluster:  
+- Service management, ingress controller, persistent storage  
+- Monitoring with Prometheus/Grafana and automated deployment  
+🎯 Goal: Understand container orchestration and scalable architecture.
+
+---
+
+### 🔐 CI/CD Pipeline with DevSecOps
+Creating a secure, automated CI/CD workflow:  
+- Static code analysis, vulnerability scanning, automated tests  
+- GitHub Actions or GitLab CI/CD for deployment  
+🎯 Goal: Automate software lifecycle with a security-first approach.
 
 ---
 
