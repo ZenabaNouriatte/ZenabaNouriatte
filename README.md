@@ -77,12 +77,14 @@ Deploying a multiplayer pong web app with a secure and scalable architecture:
 
 ---
 
-### ☁️ Deploying a Static Blog on AWS (EC2 + Nginx)
-Hosting a static blog using AWS EC2 with a custom domain:  
-- NGINX configuration, domain setup via Route53, SSL  
-- Basic firewall and SSH configuration  
-🎯 Goal: Master EC2 and get hands-on with core AWS services.
-
+### ☁️ Deploying my portfolio on AWS (S3 + Lambda + DynamoDB)
+Hosting a static blog using AWS S3 with a custom domain:
+- Static file hosting in an S3 bucket
+- Domain configuration via Route53
+- SSL certificate via AWS Certificate Manager
+- Visitor counter implemented using AWS Lambda
+- Visit data stored in DynamoDB
+🎯 Goal: Get hands-on experience with core AWS services (S3, Route53, Lambda, DynamoDB) and understand the basics of serverless web hosting.
 ---
 
 ## 🔜 Planned Projects
