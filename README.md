@@ -1,36 +1,38 @@
 # 👩🏾‍💻 Zenaba Nouriatte
 
-Welcome to my GitHub! 👋
+Welcome to my GitHub! 
 
-## 🧭 About Me
+## About Me
 
 ✨ **Zenaba Nouriatte**  
 📍 **33 years old**  
 💻 **42 School Student** since **November 2023**  
 🎯 **Career Goal:** Cloud Engineer & DevOps Specialist  
-🚀 **Next Step:** DevOps internship starting November 2025
+🚀 **Next Step:** Actively seeking a DevOps internship starting November 2025
 
 ### 🔄 Career Transition Journey
 From **10 years in social work** to **cloud engineering** – bringing project management expertise and problem-solving mindset to infrastructure challenges.
 
+💡 Currently developing a strong interest in **AWS Cloud technologies** and preparing for the **AWS Certified Cloud Practitioner** and **AWS Certified AI Practitioner** certifications.
+
 ---
 
-## 🛠️ Current Tech Focus
+## Current Tech Focus
 
 This GitHub showcases my journey toward **cloud engineering** and **DevOps** through:
 
-### 🖥️ System Administration
+### System Administration
 - Linux system management & automation  
 - Bash scripting for infrastructure tasks  
 - Network configuration & troubleshooting  
 
-### ☁️ Cloud & DevOps Learning Path
+### Cloud & DevOps Learning Path
 - Container technologies (Docker)  
 - Infrastructure as Code principles  
 - CI/CD pipeline concepts  
 - Cloud architecture patterns (AWS focus)  
 
-### 🔧 42 School Projects
+### 42 School Projects
 - Low-level C programming  
 - Unix system programming  
 - Network programming & protocols  
@@ -45,7 +47,6 @@ This GitHub showcases my journey toward **cloud engineering** and **DevOps** thr
 | **Linux & System Admin** | 🟩🟩🟩⬜⬜ Solid foundations       | Advanced automation scripts          |
 | **Cloud Fundamentals** | 🟩🟩⬜⬜⬜ Learning AWS basics     | AWS Cloud Practitioner cert          |
 | **DevOps Tools**       | 🟩⬜⬜⬜⬜ Docker basics            | CI/CD pipelines, IaC                 |
-| **Practical Projects** | ⬜⬜⬜⬜⬜ Planning phase           | Cloud infrastructure demos           |
 
 ---
 
@@ -71,20 +72,26 @@ Building a server based on the RFC1459 IRC protocol using C++.
 
 ### 🎮 ft_transcendance – Fullstack Web App Deployment (42 Project)
 Deploying a multiplayer pong web app with a secure and scalable architecture:  
-- Dockerized backend (NestJS), frontend (React), and PostgreSQL  
+- Dockerized backend , frontend , and PostgreSQL  
 - NGINX reverse proxy, SSL certificate, CI/CD pipeline  
-🎯 Goal: Apply DevOps practices to a real-world fullstack application.
+🎯 My Goal: Apply DevOps practices to a real-world fullstack application.
 
 ---
 
 ### ☁️ Deploying my portfolio on AWS (S3 + Lambda + DynamoDB)
 Hosting a static blog using AWS S3 with a custom domain:
 - Static file hosting in an S3 bucket
-- Domain configuration via Route53
+- Domain configuration via OVH
 - SSL certificate via AWS Certificate Manager
 - Visitor counter implemented using AWS Lambda
 - Visit data stored in DynamoDB
-🎯 Goal: Get hands-on experience with core AWS services (S3, Route53, Lambda, DynamoDB) and understand the basics of serverless web hosting.
+- GitHub Actions CI/CD pipeline for frontend and Lambda deployments
+- HTTPS enforced with CloudFront and domain routing configured via OVH DNS zone
+- Basic functional tests (Lambda + DynamoDB) — to be improved
+- Secrets managed with GitHub Actions and IAM roles
+
+🎯 Goal: Get hands-on experience with core AWS services (S3, Route53, Lambda, DynamoDB) and CI/CD automation in a serverless architecture.
+
 ---
 
 ## 🔜 Planned Projects
@@ -122,7 +129,7 @@ Combining technical skills with 10 years of project management experience in hig
 
 📧 **Email:** *zenaba.mogne@live.fr*  
 💼 **LinkedIn:** [linkedin.com/in/zenaba-mogne](https://linkedin.com/in/zenaba-mogne)  
-🌐 **Portfolio:** [zenabanouriatte.github.io](https://zenabanouriatte.github.io/)
+🌐 **Portfolio:** [www.zenabamogne.fr](https://www.zenabamogne.fr/)
 
 ---
 
