@@ -43,7 +43,7 @@ This GitHub showcases my journey toward **cloud engineering** and **DevOps** thr
 
 | Focus Area             | Current Status                  | Next Steps                          |
 |------------------------|----------------------------------|--------------------------------------|
-| **42 Core Curriculum** | 🟩🟩🟩🟩⬜ Completing final projects | ft_irc & ft_transcendance            |
+| **42 Core Curriculum** | 🟩🟩🟩🟩⬜ Completing final projects |  ft_transcendence            |
 | **Linux & System Admin** | 🟩🟩🟩⬜⬜ Solid foundations       | Advanced automation scripts          |
 | **Cloud Fundamentals** | 🟩🟩⬜⬜⬜ Learning AWS basics     | AWS Cloud Practitioner cert          |
 | **DevOps Tools**       | 🟩⬜⬜⬜⬜ Docker basics            | CI/CD pipelines, IaC                 |
@@ -60,43 +60,46 @@ This GitHub showcases my journey toward **cloud engineering** and **DevOps** thr
 
 ---
 
-## 🚧 Projects in Progress
-
-### 💬 ft_irc – Custom IRC Server (42 Project)
-Building a server based on the RFC1459 IRC protocol using C++.  
-- TCP/IP socket programming  
-- Channel creation, client command parsing  
-🎯 Goal: Deepen understanding of network protocols and low-level systems.
-
----
-
-### 🎮 ft_transcendance – Fullstack Web App Deployment (42 Project)
-Deploying a multiplayer pong web app with a secure and scalable architecture:  
-- Dockerized backend , frontend , and PostgreSQL  
-- NGINX reverse proxy, SSL certificate, CI/CD pipeline  
-🎯 My Goal: Apply DevOps practices to a real-world fullstack application.
-
----
 
 ### ☁️ Deploying my portfolio on AWS (S3 + Lambda + DynamoDB)
-Hosting a static blog using AWS S3 with a custom domain:
-- Static file hosting in an S3 bucket
-- Domain configuration via OVH
-- SSL certificate via AWS Certificate Manager
-- Visitor counter implemented using AWS Lambda
-- Visit data stored in DynamoDB
-- GitHub Actions CI/CD pipeline for frontend and Lambda deployments
-- HTTPS enforced with CloudFront and domain routing configured via OVH DNS zone
-- Basic functional tests (Lambda + DynamoDB) — to be improved
-- Secrets managed with GitHub Actions and IAM roles
 
-🎯 Goal: Get hands-on experience with core AWS services (S3, Route53, Lambda, DynamoDB) and CI/CD automation in a serverless architecture.
+#### Completed (via AWS Console)
+- Static website hosting on **S3** with a custom domain  
+- Domain configuration through **OVH**  
+- SSL certificate issued with **AWS Certificate Manager**  
+- **Visitor counter** implemented with **AWS Lambda**  
+- Visit data stored in **DynamoDB**  
+- HTTPS enforced with **CloudFront**, DNS routing configured via OVH  
+
+#### To improve / next steps
+- **CI/CD with GitHub Actions** for automated frontend and Lambda deployments  
+- **Secrets management** using GitHub Actions and IAM roles  
+- **Functional tests** (Lambda + DynamoDB) to be expanded  
+
+#### Upcoming
+- **Rebuild the entire infrastructure with Terraform** (instead of AWS Console) to adopt Infrastructure as Code (IaC) best practices
+
+**🎯 My Goal:** Build a serverless architecture to host my portfolio and gain hands-on experience with AWS core services (S3, Lambda, DynamoDB, CloudFront, ACM, CI/CD).  
 
 ---
 
-## 🔜 Planned Projects
+### 🎮 Ft_transcendence – Fullstack Web App Deployment (42 Project)
 
-### 🧪 Microservices Architecture with Kubernetes
+Deploying a multiplayer pong web application with a **secure and production-ready architecture**:  
+- **Dockerized services**: frontend and backend  
+- **SQLite database** (lightweight, embedded in the backend container)  
+- **NGINX reverse proxy** with SSL termination  
+- **CI/CD pipeline** for automated builds and deployments  
+- **Monitoring and logging** to track application health and usage  
+
+🎯 **My Goal:** Go beyond the application code and take ownership of the **infrastructure layer** — from containerization and networking to CI/CD, security, and monitoring — applying **DevOps practices** to deliver a real-world fullstack deployment.  
+
+
+---
+
+## Planned Projects
+
+### Microservices Architecture with Kubernetes
 Deploying a microservice-based application on a Kubernetes cluster:  
 - Service management, ingress controller, persistent storage  
 - Monitoring with Prometheus/Grafana and automated deployment  
@@ -104,7 +107,7 @@ Deploying a microservice-based application on a Kubernetes cluster:
 
 ---
 
-### 🔐 CI/CD Pipeline with DevSecOps
+### CI/CD Pipeline with DevSecOps
 Creating a secure, automated CI/CD workflow:  
 - Static code analysis, vulnerability scanning, automated tests  
 - GitHub Actions or GitLab CI/CD for deployment  
