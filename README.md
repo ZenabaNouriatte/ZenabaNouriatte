@@ -76,7 +76,9 @@ This GitHub showcases my journey toward **cloud engineering** and **DevOps** thr
 - **Secrets management** using GitHub Actions and IAM roles  
 - **Functional tests** (Lambda + DynamoDB) to be expanded  
 
-** My Goal:** Build a serverless architecture to host my portfolio and gain hands-on experience with AWS core services and IaC (S3, Lambda, DynamoDB, CloudFront, ACM, CI/CD).  
+**My Goal:** Build a serverless architecture to host my portfolio and gain hands-on experience with AWS core services and IaC (S3, Lambda, DynamoDB, CloudFront, ACM, CI/CD).  
+**Result:** [www.zenabamogne.fr](https://www.zenabamogne.fr/)
+
 
 ---
 
